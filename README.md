@@ -1,2 +1,0 @@
-# YazarUygulamasi_server
-YazarUygulamasi_server
