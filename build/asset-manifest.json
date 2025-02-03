@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa019a67.css",
+    "main.js": "/static/js/main.8edb28ea.js",
+    "static/media/kitap.pdf": "/static/media/kitap.cf0e7f426cef77ec45ae.pdf",
+    "static/media/kasirkaya_kanan_saka.jpg": "/static/media/kasirkaya_kanan_saka.b5488e4f55bbaf1a61d1.jpg",
+    "index.html": "/index.html",
+    "main.fa019a67.css.map": "/static/css/main.fa019a67.css.map",
+    "main.8edb28ea.js.map": "/static/js/main.8edb28ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa019a67.css",
+    "static/js/main.8edb28ea.js"
+  ]
+}
